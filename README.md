@@ -1,0 +1,23 @@
+# BlockBank
+
+## 🏦 Project Description
+BlockBank is a decentralized banking solution built on Ethereum. It allows users to securely deposit, withdraw, and transfer Ether using a smart contract, eliminating the need for traditional intermediaries.
+
+## 🌍 Project Vision
+To empower individuals with transparent, secure, and borderless financial services through blockchain technology. BlockBank aims to be the foundation for future decentralized finance applications.
+
+## ✨ Key Features
+- **Account Creation**: Automatically creates an account on first deposit or transfer.
+- **Deposits**: Users can deposit Ether into their account.
+- **Withdrawals**: Users can withdraw their funds anytime.
+- **Transfers**: Peer-to-peer Ether transfers between registered accounts.
+- **Event Logging**: All actions are recorded on-chain for transparency.
+
+## 🚀 Future Scope
+- Integration with ERC-20 tokens for multi-asset support.
+- Interest-bearing savings accounts and staking.
+- Role-based access control for enterprise use.
+- Frontend DApp for user-friendly interaction.
+- Layer-2 scaling for faster and cheaper transactions.
+
+  ##contract details :0xd9145CCE52D386f254917e481eB44e9943F39138
