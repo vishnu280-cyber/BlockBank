@@ -24,5 +24,5 @@ To empower individuals with transparent, secure, and borderless financial servic
   <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/b0b1a35f-7c3f-4583-b362-5a0a909031c8" />
 
   ##update:added getBalance() function to BlockBank.sol.
-  ## Update: Added `onlyRegistered` modifier to BlockBank.sol to restrict access for unregistered users.  
-
+  
+  ##Update: Added `onlyRegistered` modifier to BlockBank.sol to restrict access for unregistered users.
