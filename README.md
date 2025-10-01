@@ -23,6 +23,6 @@ To empower individuals with transparent, secure, and borderless financial servic
   ##contract details :0x2D9CbB749D9B4B6E80B38527dEBD3939891fBa56
   <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/b0b1a35f-7c3f-4583-b362-5a0a909031c8" />
 
-  ##update:added getBalance() function to BlockBank.sol.                                                                        ## update: Added 'onlyRegistered' modifier to BlockBank.sol to restrict access for unregistered user.
+  ##update:added getBalance() function to BlockBank.sol.
   
 
