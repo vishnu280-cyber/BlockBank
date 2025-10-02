@@ -1,5 +1,5 @@
 
-    // SPDX-License-Identifier: MIT
+ // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.19;
 
 /**
@@ -31,6 +31,10 @@ contract Project {
         require(balances[account] >= amount, "Insufficient balance");
         _;
     }
+    modifier onlyRegistered() {
+    require(accountExists[msg.sender], "User not registered");
+    _;
+}
 
     constructor() {
         owner = msg.sender;
